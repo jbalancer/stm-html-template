@@ -1,0 +1,88 @@
+@font-face{
+    font-family: 'AeroMaticsDisplayBold';
+    src: url('../webfonts/text/aero-matics/AeroMatics.ttf');
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: local('Rubik Light'), local('Rubik-Light'), url('../webfonts/text/rubik/Rubiklight.woff2') format('woff2'), url('../webfonts/text/rubik/Rubiklight.woff') format('woff'), url('../webfonts/text/rubik/Rubiklight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: local('Rubik Light Italic'), local('Rubik-LightItalic'), url('../webfonts/text/rubik/Rubiklightitalic.woff2') format('woff2'), url('../webfonts/text/rubik/Rubiklightitalic.woff') format('woff'), url('../webfonts/text/rubik/Rubiklightitalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: local('Rubik'), local('Rubik-Regular'), url('../webfonts/text/rubik/Rubik.woff2') format('woff2'), url('../webfonts/text/rubik/Rubik.woff') format('woff'), url('../webfonts/text/rubik/Rubik.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: local('Rubik Italic'), local('Rubik-Italic'), url('../webfonts/text/rubik/Rubikitalic.woff2') format('woff2'), url('../webfonts/text/rubik/Rubikitalic.woff') format('woff'), url('../webfonts/text/rubik/Rubikitalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: local('Rubik Medium'), local('Rubik-Medium'), url('../webfonts/text/rubik/Rubikmedium.woff2') format('woff2'), url('../webfonts/text/rubik/Rubikmedium.woff') format('woff'), url('../webfonts/text/rubik/Rubikmedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: local('Rubik Medium Italic'), local('Rubik-MediumItalic'), url('../webfonts/text/rubik/Rubikmediumitalic.woff2') format('woff2'), url('../webfonts/text/rubik/Rubikmediumitalic.woff') format('woff'), url('../webfonts/text/rubik/Rubikmediumitalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: local('Rubik Bold'), local('Rubik-Bold'), url('../webfonts/text/rubik/Rubikbold.woff2') format('woff2'), url('../webfonts/text/rubik/Rubikbold.woff') format('woff'), url('../webfonts/text/rubik/Rubikbold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: local('Rubik Bold Italic'), local('Rubik-BoldItalic'), url('../webfonts/text/rubik/Rubikbolditalic.woff2') format('woff2'), url('../webfonts/text/rubik/Rubikbolditalic.woff') format('woff'), url('../webfonts/text/rubik/Rubikbolditalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: local('Rubik Black'), local('Rubik-Black'), url('../webfonts/text/rubik/Rubikblack.woff2') format('woff2'), url('../webfonts/text/rubik/Rubikblack.woff') format('woff'), url('../webfonts/text/rubik/Rubikblack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: local('Rubik Black Italic'), local('Rubik-BlackItalic'), url('../webfonts/text/rubik/Rubikblackitalic.woff2') format('woff2'), url('../webfonts/text/rubik/Rubikblackitalic.woff') format('woff'), url('../webfonts/text/rubik/Rubikblackitalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: local('Gilroy Light'), local('Gilroy-Light'), url('../webfonts/text/gilroy/Gilroylight.woff2') format('woff2'), url('../webfonts/text/gilroy/Gilroylight.woff') format('woff'), url('../webfonts/text/gilroy/Gilroylight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: local('Gilroy ExtraBold'), local('Gilroy-ExtraBold'), url('../webfonts/text/gilroy/Gilroyextrabold.woff2') format('woff2'), url('../webfonts/text/gilroy/Gilroyextrabold.woff') format('woff'), url('../webfonts/text/gilroy/Gilroyextrabold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
